@@ -24,4 +24,5 @@ This project is close to my heart, as agriculture forms the backbone of our econ
 
 🚀 Imagine every farmer having a 24/7 personal agricultural advisor in their pocket!
 
-#AI #Agriculture #FoodTech #RuralDevelopment #MachineLearning #FarmTech #AgriInnovation #Day9
+![Screenshot_16-9-2025_15744_712a08cb012c470165 gradio live](https://github.com/user-attachments/assets/72fef6c1-473f-4b41-8edd-4e2bf807d01e)
+
